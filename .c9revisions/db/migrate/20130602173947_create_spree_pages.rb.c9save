@@ -1,0 +1,2 @@
+{"ts":1370194889686,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"class CreateSpreePages < ActiveRecord::Migration\n  def change\n    create_table :spree_pages do |t|\n\n      t.timestamps\n    end\n  end\nend\n"]],"start1":0,"start2":0,"length1":0,"length2":137}]],"length":137}
+{"contributors":[],"silentsave":false,"ts":1370194849960,"patch":[[{"diffs":[[0," do |t|\n"],[1,"      t.string :title\n      t.text :text"],[0,"\n      t"]],"start1":91,"start2":91,"length1":16,"length2":56}]],"length":177,"saved":false}
